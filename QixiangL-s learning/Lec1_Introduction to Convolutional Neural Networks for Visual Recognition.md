@@ -32,8 +32,8 @@ Notes from QixiangL, 2019 Jan.30th
 	- [1] graph theory algorithm
 	- [2] image segmentation
 * **Face Detection** *(Paul Viola & Michael Jones, 2001)*
-	- [1] machine learning techniques in 1990-2000 
-	   - supprot vector machines (SVM), boosting, graphical models, neural networks
+	- [1] machine learning techniques in 1990-2000 <br />
+	  supprot vector machines (SVM), boosting, graphical models, neural networks
 	- [2] AdaBoost algorithm
 * **SIFT Feature** *(David Lowe, 1999)* - "SIFT" & Object Recognition
 	- [1] object has "Critical features" that is diagnostic and invariant to changes
