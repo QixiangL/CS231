@@ -9,7 +9,7 @@
 	* evolutional data size, so we need to understand vision data
 	* hard like "black matter", difficult for algorithms to understand vision data
 * 2. Application-map for computer vision
-        * Biology: neuroscience
+        * Biology neuroscience
         * Psychology: cognitive sciences
         * Computer Science: graphics, algorithms, theory, ... , systems, architecture, ...
         * Mathematics: information retrieval, machine learning
