@@ -43,8 +43,7 @@
 	- compose human and recognize them
 * **PASCAL Visual Object Challenge (20 object categories)** *(2006-2012)*
 * **Image-net dataset and IMAGENET Large Scale Visual Recognition Challenge** *(2009-now)*
-	- [1] 22K categories and 14M images
-	- [2] Challenge winer each year~ ---> find the best recognition algorithm
+	- 22K categories and 14M images, Challenge winer each year ---> find the best recognition algorithm
 	   - 2012 AlexNet with ConvNet (CNN) (16.4%), 10% error rate drop from last year!
 	   - 2014 Visual Geometry Group (VGG) (7.3%)
 	   - 2014 GoogleNet or Inception (6.7%)
