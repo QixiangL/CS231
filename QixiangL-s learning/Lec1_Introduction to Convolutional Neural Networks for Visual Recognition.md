@@ -26,8 +26,8 @@
 *  **Vision** *(David Marr, 1970s)* 
 	- Input imagine ---> Primal sketch (edge imagine)---> 2.5-D sketch ---> 3-D model representation
 *  **Recognition** *(70-80s)*
-	- [1]. Generalized Cylinder & Pictorial Structure [1979, 1973]: reduce the complex object into simple geometry
-	- [2]. David Lowe [1987]: Lines with edges
+	- [1]. Generalized Cylinder & Pictorial Structure *(1979, 1973)* - reduce the complex object into simple geometry
+	- [2]. *David Lowe, 1987* - Lines with edges
 * 1.7 Normalized Cut, Shi & Malik [1997]: groups the pixel of 1 object for recognition
 	* graph theory algorithm
 	* image segmentation
