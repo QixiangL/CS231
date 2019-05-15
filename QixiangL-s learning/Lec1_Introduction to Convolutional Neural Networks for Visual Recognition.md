@@ -24,17 +24,17 @@
 *  **Mechanism of Vision** *(Hubel & Wiesel, 1959)* - vision mechanical by studying cat's brain
 *  **Block World** *(Larry Robert, 1963)* -  the first ph.D theory about vision recoginition
 *  **Vision** *(David Marr, 1970s)* 
-	- Input imagine ---> Primal sketch (edge imagine)---> 2.5-D sketch ---> 3-D model representation
+	- Input imagine ---> Primal sketch (edge imagine)---> 2.5d sketch ---> 3d model representation
 *  **Recognition** *(70-80s)*
 	- [1]. Generalized Cylinder & Pictorial Structure *(1979, 1973)* - reduce the complex object into simple geometry
 	- [2]. *David Lowe, 1987* - Lines with edges
-* 1.7 Normalized Cut, Shi & Malik [1997]: groups the pixel of 1 object for recognition
-	* graph theory algorithm
-	* image segmentation
-* 1.8 Face Detection, Paul Viola & Michael Jones [2001]:
-	* machine learning techniques in 1990-2000 
+* **Normalized Cut** *(Shi & Malik, 1997)* - groups the pixel of 1 object for recognition
+	- [1] graph theory algorithm
+	- [2] image segmentation
+* **Face Detection** *(Paul Viola & Michael Jones, 2001)
+	- [1] machine learning techniques in 1990-2000 
 	   - supprot vector machines (SVM), boosting, graphical models, neural networks
-	* AdaBoost algorithm
+	- [2] AdaBoost algorithm
 * 1.9 SIFT Feature, David Lowe [1999]: "SIFT" & Object Recognition
 	* object has "Critical features" that is diagnostic and invariant to changes
 	* identify the entire object ---> simplified to ---> find the critical features and do identify
