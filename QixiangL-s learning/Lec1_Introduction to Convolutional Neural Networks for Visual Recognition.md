@@ -6,16 +6,16 @@
 
 # 0. About this course
 * 0.1 Reasons for studying vision data
-	► evolutional data size, so we need to understand vision data
-	► hard like "black matter", difficult for algorithms to understand vision data
+	* evolutional data size, so we need to understand vision data
+	* hard like "black matter", difficult for algorithms to understand vision data
 * 0.2 Application-map for CV
-         - Biology: neuroscience
-         - Psychology: cognitive sciences
-         - Computer Science: graphics, algorithms, theory, ... , systems, architecture, ...
-         - Mathematics: information retrieval, machine learning
-         - Engineering: robotics, speech, NLP
-         - Physics: optics, image processing 
-## 0.3 CS231n
+        * Biology: neuroscience
+        * Psychology: cognitive sciences
+        * Computer Science: graphics, algorithms, theory, ... , systems, architecture, ...
+        * Mathematics: information retrieval, machine learning
+        * Engineering: robotics, speech, NLP
+        * Physics: optics, image processing 
+* 0.3 CS231n
 	* Neural network (aka "deep learning") class on imagine classification
 
 # 1. A brief history of computer vision
