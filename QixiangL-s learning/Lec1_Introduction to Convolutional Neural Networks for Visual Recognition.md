@@ -64,18 +64,18 @@ Notes from QixiangL, 2019 Jan.30th
 	   - coming from 2012 and tuning and tweaking since then
    * Why CNN boooooooooooms nowadays
 	   - CNN is not a new algorithm (back in 1998 LeCun et al.)
-	   - [Reason1] faster and faster computers due to Moore's Law <br />
+	   - *[Reason1] faster and faster computers due to Moore's Law* <br />
 	   	(i.e. CPU # of transistors: order of 6 in 1998, 9 in 2012; also the GPU)
-	   - [Reason2] higher pixel image to feed algorithms that are hungry for data <br />
+	   - *[Reason2] higher pixel image to feed algorithms that are hungry for data* <br />
 		(i.e. # of pixels used in trainning: order of 7 in 1998, 14 in 2012)
 ## 2.3 Other fancy things in the course
-	* the quest for visual intelligence goes far beyond object recognition
+   * the quest for visual intelligence goes far beyond object recognition
 ## 2.4 Philosophy for this course
-	* Thorough and Detailed: understand how to write from scratch, debug and train CNN
-	* Practical: how to train networks at scale and on GPUs; 
-		(e.g. like distributed optimization differences between CPU vs. GPU, etc)
-		software tools such as Caffe, TensorFlow, and (Py)Torch
-	* State of the art: new and fancy research world
-	* Fun: fun topics such as Image Captioning (using RNN), also DeepDream, NeuralStyle, etc. 	
+   * Thorough and Detailed: understand how to write from scratch, debug and train CNN
+   * Practical: how to train networks at scale and on GPUs
+   	   - e.g. like distributed optimization differences between CPU vs. GPU, etc
+	   - software tools such as Caffe, TensorFlow, and (Py)Torch
+   * State of the art: new and fancy research world
+   * Fun: fun topics such as Image Captioning (using RNN), also DeepDream, NeuralStyle, etc. 	
 
  
