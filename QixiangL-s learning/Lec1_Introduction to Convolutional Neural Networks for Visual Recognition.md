@@ -51,9 +51,9 @@ Notes from QixiangL, 2019 Jan.30th
 
 # 2. CS231n overview
 ## 2.1 What is the class about
-	* CS231 focuses on one of the most important problems of visual recognition - image classification
-	* Plenty of visual recognition problems related to imagine classification, such as:
-	   - object detection, action classification, image captioning, ...
+   * CS231 focuses on one of the most important problems of visual recognition - image classification
+   * Plenty of visual recognition problems related to imagine classification, such as:
+	- object detection, action classification, image captioning, ...
 ## 2.2 Convolutional Neural Network
 	* CNN is important tool for object recognition
 	   - Year 2010: NEC-UIUC
