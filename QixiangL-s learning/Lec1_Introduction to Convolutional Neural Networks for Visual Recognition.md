@@ -4,7 +4,7 @@
 * Video: https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=1
 * Slides: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf
 
-<0> About this course
+# 0. About this course
       0.1 reasons for studying vision data
 	* evolutional data size, so we need to understand vision data
 	* hard like "black matter", difficult for algorithms to understand vision data
@@ -18,7 +18,7 @@
       0.3 CS231n
 	* Neural network (aka "deep learning") class on imagine classification
 
-<1> A brief history of computer vision
+# 1. A brief history of computer vision
       1.1 Evolution's Big Bang [543 millions years, B.C]: begining of visions on animals
       1.2 Camera Obscura [16-19th century A.D]: human making mechanical "black box" to project imagines
       1.3 Mechanism of Vision, Hubel & Wiesel [1959]: vision mechanical by studying cat's brain
@@ -50,7 +50,7 @@
 	   - 2014 GoogleNet or Inception (6.7%)
 	   - 2015 Residual Networks (ResNet) (3.57%)
 
-<2> CS231n overview
+# 2. CS231n overview
       2.1 What is the class about
 	* CS231 focuses on one of the most important problems of visual recognition - image classification
 	* Plenty of visual recognition problems related to imagine classification, such as:
