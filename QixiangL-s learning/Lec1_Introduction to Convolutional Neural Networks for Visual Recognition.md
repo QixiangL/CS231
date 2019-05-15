@@ -22,9 +22,9 @@
 * 1.1 **Evolution's Big Bang** *(543 millions years, B.C)* - begining of visions on animals
 * 1.2 **Camera Obscura** *(16-19th century A.D)* - human making mechanical "black box" to project imagines
 * 1.3 **Mechanism of Vision** *(Hubel & Wiesel, 1959)* - vision mechanical by studying cat's brain
-* 1.4 **Block World** *(Larry Robert, 1963)* -  the first phD theory about vision recoginition
-* 1.5 Vision, David Marr [1970s]: 
-	* Input imagine ---> Primal sketch (edge imagine)---> 2.5-D sketch ---> 3-D model representation
+* 1.4 **Block World** *(Larry Robert, 1963)* -  the first ph.D theory about vision recoginition
+* 1.5 **Vision** *(David Marr, 1970s)* 
+	- Input imagine ---> Primal sketch (edge imagine)---> 2.5-D sketch ---> 3-D model representation
 * 1.6 Recognition [70-80s]:
   	* Generalized Cylinder & Pictorial Structure [1979, 1973]: reduce the complex object into simple geometry
         * David Lowe [1987]: Lines with edges
