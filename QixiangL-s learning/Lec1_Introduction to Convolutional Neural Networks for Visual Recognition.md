@@ -4,8 +4,8 @@
 * Video: https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=1
 * Slides: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf
 
-# 0. About this course
-* 0.1 Reasons for studying vision data
+# About this course
+* [1] Reasons for studying vision data
 	* evolutional data size, so we need to understand vision data
 	* hard like "black matter", difficult for algorithms to understand vision data
 * 0.2 Application-map for CV
