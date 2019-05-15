@@ -31,20 +31,20 @@
 * **Normalized Cut** *(Shi & Malik, 1997)* - groups the pixel of 1 object for recognition
 	- [1] graph theory algorithm
 	- [2] image segmentation
-* **Face Detection** *(Paul Viola & Michael Jones, 2001)
+* **Face Detection** *(Paul Viola & Michael Jones, 2001)*
 	- [1] machine learning techniques in 1990-2000 
 	   - supprot vector machines (SVM), boosting, graphical models, neural networks
 	- [2] AdaBoost algorithm
-* 1.9 SIFT Feature, David Lowe [1999]: "SIFT" & Object Recognition
-	* object has "Critical features" that is diagnostic and invariant to changes
-	* identify the entire object ---> simplified to ---> find the critical features and do identify
-* 1.10 Spatial Pyramid Matching, Lazebnik, Schmid & Ponce [2006]: holistic scenery imagine
-* 1.11 Histogram of Gradients (HoG) & Deformable Part Model, Dalal & Triggs, Felzenswalb, McAllester, Ramanan [2005, 2009]:
-	* compose human and recognize them
-* 1.12 PASCAL Visual Object Challenge (20 object categories) [2006-2012]
-* 1.13 Image-net dataset and IMAGENET Large Scale Visual Recognition Challenge [2009-now]:
-	* 22K categories and 14M images
-	* Challenge winer each year~ ---> find the best recognition algorithm
+* **SIFT Feature** *(David Lowe, 1999)* - "SIFT" & Object Recognition
+	- [1] object has "Critical features" that is diagnostic and invariant to changes
+	- [2] identify the entire object ---> simplified to ---> find the critical features and do identify
+* **Spatial Pyramid Matching** *(Lazebnik, Schmid & Ponce, 2006)* - holistic scenery imagine
+* **Histogram of Gradients (HoG) & Deformable Part Model** *(Dalal & Triggs, Felzenswalb, McAllester, Ramanan, 2005, 2009)*
+	- compose human and recognize them
+* **PASCAL Visual Object Challenge (20 object categories)** *(2006-2012)*
+* **Image-net dataset and IMAGENET Large Scale Visual Recognition Challenge** *(2009-now)*
+	- [1] 22K categories and 14M images
+	- [2] Challenge winer each year~ ---> find the best recognition algorithm
 	   - 2012 AlexNet with ConvNet (CNN) (16.4%), 10% error rate drop from last year!
 	   - 2014 Visual Geometry Group (VGG) (7.3%)
 	   - 2014 GoogleNet or Inception (6.7%)
