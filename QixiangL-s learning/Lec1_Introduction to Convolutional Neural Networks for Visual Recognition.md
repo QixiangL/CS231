@@ -4,26 +4,26 @@
 * Video: https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=1
 * Slides: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf
 
-# 1. About this course
-## 1.1 Reasons for studying vision data
+# 0. About this course
+## 0.1 Reasons for studying vision data
    * evolutional data size, so we need to understand vision data
    * hard like "black matter", difficult for algorithms to understand vision data
-## 1.2 Application-map for computer vision
+## 0.2 Application-map for computer vision
    * Biology neuroscience
    * Psychology: cognitive sciences
    * Computer Science: graphics, algorithms, theory, ... , systems, architecture, ...
    * Mathematics: information retrieval, machine learning
    * Engineering: robotics, speech, NLP
    * Physics: optics, image processing 
-## 1.3 CS231n
+## 0.3 CS231n
    * Neural network (aka "deep learning") class on imagine classification
 
 # 1. A brief history of computer vision
-## 1.1 Evolution's Big Bang [543 millions years, B.C]: begining of visions on animals
-## 1.2 Camera Obscura [16-19th century A.D]: human making mechanical "black box" to project imagines
-## 1.3 Mechanism of Vision, Hubel & Wiesel [1959]: vision mechanical by studying cat's brain
-## 1.4 Block World, Larry Robert [1963]: the first phD theory about vision recoginition
-## 1.5 Vision, David Marr [1970s]: 
+* 1.1 Evolution's Big Bang [543 millions years, B.C]: begining of visions on animals
+* 1.2 Camera Obscura [16-19th century A.D]: human making mechanical "black box" to project imagines
+* 1.3 Mechanism of Vision, Hubel & Wiesel [1959]: vision mechanical by studying cat's brain
+* 1.4 Block World, Larry Robert [1963]: the first phD theory about vision recoginition
+* 1.5 Vision, David Marr [1970s]: 
 	* Input imagine ---> Primal sketch (edge imagine)---> 2 1/2-D sketch ---> 3-D model representation
 ## 1.6 Recognition [70-80s]:
 	* Generalized Cylinder & Pictorial Structure [1979, 1973]: reduce the complex object into simple geometry
