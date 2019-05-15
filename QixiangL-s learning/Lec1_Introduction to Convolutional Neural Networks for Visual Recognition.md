@@ -55,14 +55,14 @@ Notes from QixiangL, 2019 Jan.30th
    * Plenty of visual recognition problems related to imagine classification, such as:
 	   - object detection, action classification, image captioning, ...
 ## 2.2 Convolutional Neural Network
-	* CNN is important tool for object recognition
+   * CNN is important tool for object recognition
 	   - Year 2010: NEC-UIUC
 	   - Year 2012: SuperVision (AlexNet) or CNN (7-8 layers)
 	   - Year 2014: GoogleNet and VGG (16-19 layers)
 	   - Year 2015: Residual Networks (ResNet) (152 layers)
-	* Convolutional Neural Networks (CNN) were not invented overnight
+   * Convolutional Neural Networks (CNN) were not invented overnight
 	   - coming from 2012 and tuning and tweaking since then
-	* Why CNN boooooooooooms nowadays
+   * Why CNN boooooooooooms nowadays
 	   - CNN is not a new algorithm (back in 1998 LeCun et al.)
 	   - [Reason1] faster and faster computers due to Moore's Law
 		(i.e. CPU # of transistors: order of 6 in 1998, 9 in 2012; also the GPU)
