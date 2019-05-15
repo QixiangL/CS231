@@ -24,25 +24,25 @@
 * 1.3 Mechanism of Vision, Hubel & Wiesel [1959]: vision mechanical by studying cat's brain
 * 1.4 Block World, Larry Robert [1963]: the first phD theory about vision recoginition
 * 1.5 Vision, David Marr [1970s]: 
-	* Input imagine ---> Primal sketch (edge imagine)---> 2 1/2-D sketch ---> 3-D model representation
-## 1.6 Recognition [70-80s]:
+	* Input imagine ---> Primal sketch (edge imagine)---> 2.5-D sketch ---> 3-D model representation
+* 1.6 Recognition [70-80s]:
 	* Generalized Cylinder & Pictorial Structure [1979, 1973]: reduce the complex object into simple geometry
-           	* David Lowe [1987]: Lines with edges
-## 1.7 Normalized Cut, Shi & Malik [1997]: groups the pixel of 1 object for recognition
+        * David Lowe [1987]: Lines with edges
+* 1.7 Normalized Cut, Shi & Malik [1997]: groups the pixel of 1 object for recognition
 	* graph theory algorithm
 	* image segmentation
-## 1.8 Face Detection, Paul Viola & Michael Jones [2001]:
+* 1.8 Face Detection, Paul Viola & Michael Jones [2001]:
 	* machine learning techniques in 1990-2000 
 	   - supprot vector machines (SVM), boosting, graphical models, neural networks
 	* AdaBoost algorithm
-## 1.9 SIFT Feature, David Lowe [1999]: "SIFT" & Object Recognition
+* 1.9 SIFT Feature, David Lowe [1999]: "SIFT" & Object Recognition
 	* object has "Critical features" that is diagnostic and invariant to changes
 	* identify the entire object ---> simplified to ---> find the critical features and do identify
-## 1.10 Spatial Pyramid Matching, Lazebnik, Schmid & Ponce [2006]: holistic scenery imagine
-## 1.11 Histogram of Gradients (HoG) & Deformable Part Model, Dalal & Triggs, Felzenswalb, McAllester, Ramanan [2005, 2009]:
+* 1.10 Spatial Pyramid Matching, Lazebnik, Schmid & Ponce [2006]: holistic scenery imagine
+* 1.11 Histogram of Gradients (HoG) & Deformable Part Model, Dalal & Triggs, Felzenswalb, McAllester, Ramanan [2005, 2009]:
 	* compose human and recognize them
-## 1.12 PASCAL Visual Object Challenge (20 object categories) [2006-2012]
-## 1.13 Image-net dataset and IMAGENET Large Scale Visual Recognition Challenge [2009-now]:
+* 1.12 PASCAL Visual Object Challenge (20 object categories) [2006-2012]
+* 1.13 Image-net dataset and IMAGENET Large Scale Visual Recognition Challenge [2009-now]:
 	* 22K categories and 14M images
 	* Challenge winer each year~ ---> find the best recognition algorithm
 	   - 2012 AlexNet with ConvNet (CNN) (16.4%), 10% error rate drop from last year!
