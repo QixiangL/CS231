@@ -5,10 +5,10 @@
 * Slides: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf
 
 # 0. About this course
-## 0.1 reasons for studying vision data
+* 0.1 reasons for studying vision data
 	* evolutional data size, so we need to understand vision data
 	* hard like "black matter", difficult for algorithms to understand vision data
-## 0.2 application-map for CV
+* 0.2 application-map for CV
          - Biology: neuroscience
          - Psychology: cognitive sciences
          - Computer Science: graphics, algorithms, theory, ... , systems, architecture, ...
