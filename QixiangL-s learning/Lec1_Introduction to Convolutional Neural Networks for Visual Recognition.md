@@ -5,18 +5,18 @@
 * Slides: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf
 
 # About this course
-## [1] Reasons for studying vision data
-	** evolutional data size, so we need to understand vision data
-	** hard like "black matter", difficult for algorithms to understand vision data
-* Application-map for computer vision
-	** Biology neuroscience
-	** Psychology: cognitive sciences
-	** Computer Science: graphics, algorithms, theory, ... , systems, architecture, ...
-	** Mathematics: information retrieval, machine learning
-	** Engineering: robotics, speech, NLP
-	** Physics: optics, image processing 
-* CS231n
-	** Neural network (aka "deep learning") class on imagine classification
+## 1. Reasons for studying vision data
+   * evolutional data size, so we need to understand vision data
+   * hard like "black matter", difficult for algorithms to understand vision data
+## 2. Application-map for computer vision
+   * Biology neuroscience
+   * Psychology: cognitive sciences
+   * Computer Science: graphics, algorithms, theory, ... , systems, architecture, ...
+   * Mathematics: information retrieval, machine learning
+   * Engineering: robotics, speech, NLP
+   * Physics: optics, image processing 
+## CS231n
+   * Neural network (aka "deep learning") class on imagine classification
 
 # 1. A brief history of computer vision
 ## 1.1 Evolution's Big Bang [543 millions years, B.C]: begining of visions on animals
