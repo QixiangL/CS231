@@ -19,7 +19,7 @@
    * Neural network (aka "deep learning") class on imagine classification
 
 # 1. A brief history of computer vision
-* 1.1 **Evolution's Big Bang** - [543 millions years, B.C]: begining of visions on animals
+* 1.1 **Evolution's Big Bang** - *543 millions years, B.C*: begining of visions on animals
 * 1.2 Camera Obscura [16-19th century A.D]: human making mechanical "black box" to project imagines
 * 1.3 Mechanism of Vision, Hubel & Wiesel [1959]: vision mechanical by studying cat's brain
 * 1.4 Block World, Larry Robert [1963]: the first phD theory about vision recoginition
