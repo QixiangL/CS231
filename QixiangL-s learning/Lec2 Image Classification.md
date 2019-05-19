@@ -31,12 +31,12 @@ Notes from QixiangL, 2019 May.19th
    * Python API:snake:
    ```python
    def train(images, labels):
-   """Memorize all data and labels"""
+   """ Memorize all data and labels """
    	# Machine learning!
 	return model
 	
    def predict(model, test_images)
-   """Predict on test images"""
+   """ Predict on test images """
    	# Use model to predict labels
 	return test_labels
    ```
