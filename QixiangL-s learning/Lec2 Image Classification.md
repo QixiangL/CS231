@@ -50,6 +50,8 @@ Notes from QixiangL, 2019 May.19th
 * Distance Metric: minimam the L1 distance for image labeling
 ![L1_distance](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/L1_distance.png)
 * Python API:snake:
+   - train: memorize training data.
+   - predict: for each test image, find **closest** train image and predict **label of nearest image**. 
 ```python
 import numpy as np
 
@@ -63,10 +65,15 @@ class NearestNeighbor:
 		y: Nx1 row, where each row is label
 		"""
 		# the nearest neighbor classfier simply remembers all the training data
-		self.Xtr = X
-		self.ytr = y
+		self.Xtrue = X
+		self.ytrue = y
 	
-	def predict
+	def predict(slef, X):
+		num_test = X.shape[0]
+		# lets make sure that the output type matches the input type
+		Ypred = np.zeros(num_test, dtype = self.ytrue.dtype)
+		
+		# loop overall
 ```
 * Remarks
    - With N examples, computational complexity for train is O(1) and prdict is O(N).
