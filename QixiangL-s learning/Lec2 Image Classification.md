@@ -7,7 +7,7 @@ Notes from QixiangL, 2019 May.19th
 # 0. Image Classification Overall
 ## 0.1 An Image Classifier
    * Given a set of images and set of discrete labels
-   * :snake:
+   * Python template :snake:
    ```
    def classify_image(image):
    	# Some magic there?
