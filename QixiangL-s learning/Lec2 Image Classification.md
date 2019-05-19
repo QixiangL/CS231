@@ -7,7 +7,7 @@ Notes from QixiangL, 2019 May.19th
 # 0. Image Classification Overall
 ## 0.1 An Image Classifier
    * Given a set of images and set of discrete labels
-   * Python API template (quite brute and non-scalable):snake:
+   * Python API (quite brute and non-scalable):snake:
    ```python
    def classify_image(image):
    	# Some magic there?
@@ -25,9 +25,21 @@ Notes from QixiangL, 2019 May.19th
    * Background: difficult to detect the task from the background
    * Intraclass variance: difference between *orange* and *black* cats
 ## 0.4 Data-Driven Approach
-   * [1] Collect a dataset of images and labels
-   * [2] Use Machine Learning to train a classifier
-   * [3] Evaluate the classifier on new images
+   * Collect a dataset of images and labels
+   * Use Machine Learning to train a classifier
+   * Evaluate the classifier on new images
+   * Python API:snake:
+   ```python
+   def train(images, labels):
+   """Memorize all data and labels"""
+   	# Machine learning!
+	return model
+	
+   def predict(model, test_images)
+   """Predict on test images"""
+   	# Use model to predict labels
+	return test_labels
+   ```
    
 
 # 1. Nearest Neighbor Model
