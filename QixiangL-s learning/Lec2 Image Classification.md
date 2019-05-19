@@ -4,10 +4,14 @@ Notes from QixiangL, 2019 May.19th
 * Video: https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2
 * Slides: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture2.pdf
 
-# 0. About this course
-## 0.1 Reasons for studying vision data
-   * evolutional data size, so we need to understand vision data
-   * hard like "black matter", difficult for algorithms to understand vision data
+# 0. Image Classification Overall
+## 0.1 An Image Classifier
+   * Given a set of images and set of discrete labels
+   ```
+   def classify_image(image):
+   	# Some magic there?
+	return class_label
+   ```
 ## 0.2 Application-map for computer vision
    * Biology neuroscience
    * Psychology: cognitive sciences
