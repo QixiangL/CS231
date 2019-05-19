@@ -43,11 +43,10 @@ Notes from QixiangL, 2019 May.19th
 
 # 1. Nearest Neighbor Model
 *  Two step programming:
-   - Memorize all data and labels
-   - Predict the label of the most similar training image
-*  **ggn** *(70-80s)*
-	- [1]. Ggy
-	- [2]. *Dag 1987* - Lg
+   - Train step: memorize all data and labels
+   - Predict step: predict the label of the most similar training image
+*  **CIFAR10** example dataset <br />
+	10 classes, 50000 training images, 10000 testing images
 * **Hghsgdel** *(Dagh)*
 	- comg
 * **Imgge** *(gnow)*
