@@ -73,7 +73,15 @@ class NearestNeighbor:
 		# lets make sure that the output type matches the input type
 		Ypred = np.zeros(num_test, dtype = self.ytrue.dtype)
 		
-		# loop overall
+		# loop over all test rows
+		for i in xrange(num_test):
+			# find the nearest training image to the i'th test image
+			# using the L1 distance (sum of absolute value difference)
+			distances = np.sum(no.abs(self.Xtrue - X[i, :]), axis = 1)
+			min_index = np.argmin(distances) # get the index with smallest distance
+			Ypred[i] = self.ytrue[min_index] # predict the label of the nearest example
+		
+		return Ypred
 ```
 * Remarks
    - With N examples, computational complexity for train is O(1) and prdict is O(N).
