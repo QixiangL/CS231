@@ -13,15 +13,17 @@ Notes from QixiangL, 2019 May.19th
    	# Some magic there?
 	return class_label
    ```
-## 0.2 Application-map for computer vision
+## 0.2 Semantic Gap between human-vision and computer-vision
+   * Human: high-level features
+   * Computer: low-level features
+   
+## 0.3 Challenges
    * Biology neuroscience
    * Psychology: cognitive sciences
    * Computer Science: graphics, algorithms, theory, ... , systems, architecture, ...
    * Mathematics: information retrieval, machine learning
    * Engineering: robotics, speech, NLP
    * Physics: optics, image processing 
-## 0.3 CS231n
-   * Neural network (aka "deep learning") class on imagine classification
 
 # 1. A brief history of computer vision
 *  **Evolution's Big Bang** *(543 millions years, B.C)* - begining of visions on animals
