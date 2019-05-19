@@ -16,7 +16,7 @@ Notes from QixiangL, 2019 May.19th
 ## 0.2 Semantic Gap between human-vision and computer-vision
    * Human: high-level features
    * **Computer: low-level features** <br />
-   	A grid map of numbers between [0, 255]
+   	A grid map of numbers between [0, 255] (e.g. 800 * 600 * 3 for 3 channels RGB)
    
    
 ## 0.3 Challenges
