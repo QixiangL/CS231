@@ -20,7 +20,7 @@ Notes from QixiangL, 2019 May.19th
 ## 0.3 Challenges
    * Viewpoint variation: all pixel change when we change the camera
    * Illumination: dark & light
-   * Deformation: cats are liquid :wave:
+   * Deformation: cats are liquid :water wave:
    * Occlusion: cats are smart :100:
 
 # 1. A brief history of computer vision
