@@ -49,7 +49,7 @@ Notes from QixiangL, 2019 May.19th
 *  **CIFAR10** example dataset <br />
 	10 classes, 50000 training images, 10000 testing images
 ## 0.2 Distance Metric
-* **L1 distance to compare images**
+* Minimam the L1 distance for image labeling
 ![L1_distance](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/L1_distance.png)
 
 
