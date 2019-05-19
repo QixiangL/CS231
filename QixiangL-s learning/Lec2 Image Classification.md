@@ -56,6 +56,17 @@ import numpy as np
 class NearestNeighbor:
 	def __init__(self):
 		pass
+	
+	def train(self, X, y):
+		""" 
+		X: NxD matrix, where each row is example and each column is feature
+		y: Nx1 row, where each row is label
+		"""
+		# the nearest neighbor classfier simply remembers all the training data
+		self.Xtr = X
+		self.ytr = y
+	
+	def predict
 ```
 * Remarks
    - With N examples, computational complexity for train is O(1) and prdict is O(N).
