@@ -40,10 +40,11 @@ Notes from QixiangL, 2019 May.19th
    	# Use model to predict labels
 	return test_labels
    ```
-   
 
 # 1. Nearest Neighbor Model
-*  **Ehhhng** *(555)* - bhhhls
+*  Two step programming:
+   - Memorize all data and labels
+   - Predict the label of the most similar training image
 *  **ggn** *(70-80s)*
 	- [1]. Ggy
 	- [2]. *Dag 1987* - Lg
