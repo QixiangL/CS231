@@ -42,15 +42,20 @@ Notes from QixiangL, 2019 May.19th
    ```
 
 # 1. Nearest Neighbor Model
-## 0.1 KNN (K=1) introduction
+## 1.1 KNN (K=1) introduction
 *  Two step programming:
    - Train step: memorize all data and labels
    - Predict step: predict the label of the most similar training image
 *  **CIFAR10** example dataset <br />
 	10 classes, 50000 training images, 10000 testing images
-## 0.2 Distance Metric
+## 1.2 Distance Metric
 * Minimam the L1 distance for image labeling
 ![L1_distance](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/L1_distance.png)
+## 1.3 Python API:snake:
+```python
+import numpy as np
+
+```
 
 
 # 2. Cjw
