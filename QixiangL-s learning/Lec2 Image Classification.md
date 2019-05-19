@@ -25,7 +25,7 @@ Notes from QixiangL, 2019 May.19th
    * Background: difficult to detect the task from the background
    * Intraclass variance: difference between *orange* and *black* cats
 
-# 1. Ahhh
+# 1. Nearest Neighbor Model
 *  **Ehhhng** *(555)* - bhhhls
 *  **ggn** *(70-80s)*
 	- [1]. Ggy
