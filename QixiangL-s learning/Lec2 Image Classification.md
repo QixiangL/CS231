@@ -25,8 +25,10 @@ Notes from QixiangL, 2019 May.19th
    * Background: difficult to detect the task from the background
    * Intraclass variance: difference between *orange* and *black* cats
 ## 0.4 Data-Driven Approach
-   * Collect a dataset of images and labels
-   * 
+   * [1] Collect a dataset of images and labels
+   * [2] Use Machine Learning to train a classifier
+   * [3] Evaluate the classifier on new images
+   
 
 # 1. Nearest Neighbor Model
 *  **Ehhhng** *(555)* - bhhhls
