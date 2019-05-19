@@ -7,7 +7,7 @@ Notes from QixiangL, 2019 May.19th
 # 0. Image Classification Overall
 ## 0.1 An Image Classifier
    * Given a set of images and set of discrete labels
-   * Python API template :snake:
+   * Python API template (quite brute and non-scalable):snake:
    ```python
    def classify_image(image):
    	# Some magic there?
@@ -24,6 +24,9 @@ Notes from QixiangL, 2019 May.19th
    * Occlusion: parts of the feature, cats are smart :100:
    * Background: difficult to detect the task from the background
    * Intraclass variance: difference between *orange* and *black* cats
+## 0.4 Data-Driven Approach
+   * Collect a dataset of images and labels
+   * 
 
 # 1. Nearest Neighbor Model
 *  **Ehhhng** *(555)* - bhhhls
