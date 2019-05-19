@@ -16,14 +16,12 @@ Notes from QixiangL, 2019 May.19th
 ## 0.2 Semantic Gap between human-vision and computer-vision
    * Human: high-level features
    * **Computer: low-level features** <br />
-   	A gigantic grid of numbers between [0, 255] (e.g. 800x600x3 for 3 channels RGB)
+   	A gigantic grid of numbers between [0, 255] for each pixel (e.g. 800x600x3 for 3 channels RGB)
 ## 0.3 Challenges
-   * Biology neuroscience
-   * Psychology: cognitive sciences
-   * Computer Science: graphics, algorithms, theory, ... , systems, architecture, ...
-   * Mathematics: information retrieval, machine learning
-   * Engineering: robotics, speech, NLP
-   * Physics: optics, image processing 
+   * Viewpoint variation: all pixel change when we change the camera
+   * Illumination: dark & light
+   * Deformation: cats are liquid :water_buffalo:
+   * Occlusion: cats are smart :100:
 
 # 1. A brief history of computer vision
 *  **Evolution's Big Bang** *(543 millions years, B.C)* - begining of visions on animals
