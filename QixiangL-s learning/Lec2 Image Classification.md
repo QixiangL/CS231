@@ -42,14 +42,14 @@ Notes from QixiangL, 2019 May.19th
    ```
 
 # 1. Nearest Neighbor Model
-## 0.1 KNN (K=1) intro
+## 0.1 KNN (K=1) introduction
 *  Two step programming:
    - Train step: memorize all data and labels
    - Predict step: predict the label of the most similar training image
 *  **CIFAR10** example dataset <br />
 	10 classes, 50000 training images, 10000 testing images
 ## 0.2 Distance Metric
-* asd
+* **L1 distance to compare images**
 * as
 
 # 2. Cjw
