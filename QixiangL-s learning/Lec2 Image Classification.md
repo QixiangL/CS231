@@ -20,8 +20,10 @@ Notes from QixiangL, 2019 May.19th
 ## 0.3 Challenges
    * Viewpoint variation: all pixel change when we change the camera
    * Illumination: dark & light
-   * Deformation: cats are liquid :ocean:
-   * Occlusion: cats are smart :100:
+   * Deformation: tunned features, cats are liquid :ocean:
+   * Occlusion: parts of the feature, cats are smart :100:
+   * Background: difficult to detect the task from the background
+   * Intraclass variance: difference between *orange* and *black* cats
 
 # 1. A brief history of computer vision
 *  **Evolution's Big Bang** *(543 millions years, B.C)* - begining of visions on animals
