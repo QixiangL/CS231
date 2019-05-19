@@ -13,6 +13,8 @@ Notes from QixiangL, 2019 May.19th
    	# Some magic there?
 	return class_label
    ```
+   ![stack Overflow](http://lmsotfy.com/so.png)
+
 ## 0.2 Application-map for computer vision
    * Biology neuroscience
    * Psychology: cognitive sciences
