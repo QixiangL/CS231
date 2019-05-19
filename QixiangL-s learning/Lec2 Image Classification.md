@@ -17,8 +17,6 @@ Notes from QixiangL, 2019 May.19th
    * Human: high-level features
    * **Computer: low-level features** <br />
    	A grid map of numbers between [0, 255] (e.g. 800x600x3 for 3 channels RGB)
-   
-   
 ## 0.3 Challenges
    * Biology neuroscience
    * Psychology: cognitive sciences
