@@ -1,8 +1,8 @@
-# Lecture1: Introduction to Convolutional Neural Network for Visual Recognition
+# Lecture2: Image Classification
 
-Notes from QixiangL, 2019 Jan.30th
-* Video: https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=1
-* Slides: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture1.pdf
+Notes from QixiangL, 2019 May.19th
+* Video: https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2
+* Slides: http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture2.pdf
 
 # 0. About this course
 ## 0.1 Reasons for studying vision data
