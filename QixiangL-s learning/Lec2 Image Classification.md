@@ -8,7 +8,8 @@ Notes from QixiangL, 2019 May.19th
 ## 0.1 An Image Classifier
    * Given a set of images and set of discrete labels
    ```
-   ![#f03c15] def classify_image(image):
+   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+   def classify_image(image):
    	# Some magic there?
 	return class_label
    ```
