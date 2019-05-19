@@ -50,7 +50,8 @@ Notes from QixiangL, 2019 May.19th
 	10 classes, 50000 training images, 10000 testing images
 ## 0.2 Distance Metric
 * **L1 distance to compare images**
-* ! [L1_distance] (https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/L1_distance.png)
+![L1_distance](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/L1_distance.png)
+
 
 # 2. Cjw
 ## 2.1 Whjjkt
