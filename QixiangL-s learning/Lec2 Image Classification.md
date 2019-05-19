@@ -13,7 +13,7 @@ Notes from QixiangL, 2019 May.19th
    	# Some magic there?
 	return class_label
    ```
-   ![stack Overflow](file:///C:/Users/Loqx/Desktop/image_classification_task.png)
+   ![stack Overflow](C:/Users/Loqx/Desktop/image_classification_task.png)
 
 ## 0.2 Application-map for computer vision
    * Biology neuroscience
