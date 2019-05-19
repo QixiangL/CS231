@@ -8,7 +8,7 @@ Notes from QixiangL, 2019 May.19th
 ## 0.1 An Image Classifier
    * Given a set of images and set of discrete labels
    * Python template :snake:
-   ```
+   ```python
    def classify_image(image):
    	# Some magic there?
 	return class_label
