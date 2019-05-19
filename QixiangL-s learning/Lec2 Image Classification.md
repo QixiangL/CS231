@@ -53,8 +53,11 @@ Notes from QixiangL, 2019 May.19th
 ```python
 import numpy as np
 
+class NearestNeighbor:
+	def __init__(self):
+		pass
 ```
-* Remarks: 
+* Remarks
    - With N examples, computational complexity for train is O(1) and prdict is O(N).
    - This is bad because we want **FAST** on prediction and **SLOW** for training is ok.
 
