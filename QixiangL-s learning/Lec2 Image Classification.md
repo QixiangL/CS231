@@ -100,10 +100,10 @@ class NearestNeighbor:
 * Setting Hyperparameters
    - **Idea #1:** 
    	choose hyperparameters that work best on **Full** data. :x:
-   - **Idea #2:** 
+   - **Idea #2:** <br />
    	Split data into **train** and **test**; <br />
    	choose hyperparameters that work best on **test** data. :x:
-   - **Idea #3: Validation** 
+   - **Idea #3: Validation** <br />
    	Split data into **train**, **val**, and **test**; <br />
    	choose hyperparameters on **val** and evaluate on test. :heavy_check_mark:
    - **Idea #4: Cross-Validation**
