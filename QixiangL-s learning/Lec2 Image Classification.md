@@ -98,12 +98,12 @@ class NearestNeighbor:
    - what is the best value of **k** to use?
    - what is the best **distance** to use?
 * Setting Hyperparameters
-   - **Idea #1** choose hyperparameters that work best on **Full** data :x:
-   - **Idea #2** Split data into **train** and **test**; <br />
-   		choose hyperparameters that work best on **test** data :x:
-   - **Idea #3** Split data into **train**, **val**, and **test**; <br />
-   		choose hyperparameters on **val** and evaluate on test :heavy_check_mark:
-   - **Idea #4**
+   - **Idea #1:** choose hyperparameters that work best on **Full** data. :x:
+   - **Idea #2:** Split data into **train** and **test**; <br />
+   		choose hyperparameters that work best on **test** data. :x:
+   - **Idea #3: Validation** Split data into **train**, **val**, and **test**; <br />
+   		choose hyperparameters on **val** and evaluate on test. :heavy_check_mark:
+   - **Idea #4: Cross-Validation** Split data into **folds**, try each fold as validation and average the results. :ballot_box_with_check:
 
 ## 1.3 Summary
 
