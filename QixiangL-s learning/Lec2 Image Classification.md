@@ -113,7 +113,7 @@ class NearestNeighbor:
    - Very slow at test time
    - Cannot tell differenece on even simplest image distortion
    - Curse of dimensionality
-* Good about k-NN
+* What we learn about k-NN
    - In **Image classification** we start with a **training set** of images and labels, and must predict labels on the **test set**
    - The **K-Nearest Neighbors** classifier predicts labels based on nearest training examples
    - Distance metric and K are **hyperparameters**
