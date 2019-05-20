@@ -42,6 +42,7 @@ Notes from QixiangL, 2019 May.19th
    ```
 
 # 1. Nearest Neighbor Model
+## 1.1 Model and Programming
 *  Two step programming:
    - Train step: memorize all data and labels
    - Predict step: predict the label of the most similar training image
@@ -86,6 +87,10 @@ class NearestNeighbor:
 * Remarks
    - With N examples, computational complexity for train is O(1) and prdict is O(N).
    - This is bad because we want **FAST** on prediction and **SLOW** for training is ok.
+   
+## 1.2 K-Nearest Neighbors
+
+## 1.3 Summary
 
 
 # 2. Cjw
