@@ -123,15 +123,6 @@ class NearestNeighbor:
 ## 2.1 Parametric Approach
    * Just a simplest linear dot-product to argmax the score at the output layer
    ![linear classifier](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/linear_classifier.png)
-## 2.2 Conj
-   * Cggh
-	   - YehjC
-   * Whhj
-	   - Chj
-	   - *[Reason1] fashw* <br />
-	   	(i.e. hU)
-## 2.4 Phh
-   * Prh: sasa
-   	   - e.g. lihc
-
- 
+## 2.2 Hard cases for a linear classifier
+   * Parity problem or XOR problem
+   * Multimodal data
