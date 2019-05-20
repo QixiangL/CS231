@@ -109,6 +109,9 @@ class NearestNeighbor:
 ![hyperparamters](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/hyperparamters.png)
 
 ## 1.3 Summary
+* k-NN on images **never used**
+   - very slow at test time
+   - distance metrics on pixels are not informative (can't find differenece on even simple image distortion)
 
 
 # 2. Cjw
