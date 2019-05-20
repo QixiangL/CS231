@@ -103,7 +103,8 @@ class NearestNeighbor:
    		choose hyperparameters that work best on **test** data. :x:
    - **Idea #3: Validation** Split data into **train**, **val**, and **test**; <br />
    		choose hyperparameters on **val** and evaluate on test. :heavy_check_mark:
-   - **Idea #4: Cross-Validation** Split data into **folds**, try each fold as validation and average the results. :ballot_box_with_check:
+   - **Idea #4: Cross-Validation**
+   	Split data into **folds**, try each fold as validation and average the results. :ballot_box_with_check:
 
 ## 1.3 Summary
 
