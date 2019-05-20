@@ -89,6 +89,9 @@ class NearestNeighbor:
    - This is bad because we want **FAST** on prediction and **SLOW** for training is ok.
    
 ## 1.2 K-Nearest Neighbors
+* Distance Metric
+![distance metric](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/L1_L2.png)
+
 
 ## 1.3 Summary
 
