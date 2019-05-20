@@ -106,7 +106,7 @@ class NearestNeighbor:
    	Split data into **train**, **val**, and **test**; choose hyperparameters on **val** and evaluate on test. :heavy_check_mark:
    - **Idea #4: Cross-Validation** <br />
    	Split data into **folds**, try each fold as validation and average the results. :ballot_box_with_check:
-   ![hyperparamters](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/hyperparamters.png)
+![hyperparamters](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/hyperparamters.png)
 
 ## 1.3 Summary
 
