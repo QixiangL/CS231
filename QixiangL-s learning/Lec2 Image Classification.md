@@ -110,8 +110,15 @@ class NearestNeighbor:
 
 ## 1.3 Summary
 * k-NN on images **never used**
-   - very slow at test time
-   - distance metrics on pixels are not informative (can't find differenece on even simple image distortion)
+   - Very slow at test time
+   - Cannot tell differenece on even simplest image distortion
+   - Curse of dimensionality
+* Good about k-NN
+   - In **Image classification** we start with a **training set** of images and labels, and must predict labels on the **test set**
+   - The **K-Nearest Neighbors** classifier predicts labels based on nearest training examples
+   - Distance metric and K are **hyperparameters**
+   - Choose hyperparameters using the **validation set**; only run on the test set once at the very end!
+
 
 
 # 2. Cjw
