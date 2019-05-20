@@ -99,7 +99,8 @@ class NearestNeighbor:
    - what is the best **distance** to use?
 * Setting Hyperparameters
    - **Idea #1** choose hyperparameters that work best on **Full dataset** :x:
-   - **Idea #2** 
+   - **Idea #2** Split data into train and test, choose hyperparameters that work best on test data :x:
+
    - **Idea #3**
    - **Idea #4**
 
