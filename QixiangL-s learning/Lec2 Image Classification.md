@@ -94,7 +94,7 @@ class NearestNeighbor:
    - L1 (Manhattan) is dependent on the coordinate
    - L2 (Euclidean) is non-dependent on coordinate.
 * Setting Hyperparameters <br />
-	Choices about the algorithm that we set rather than learn.
+	*Choices about the algorithm that we set rather than learn.*
    - what is the best value of **k** to use?
    - what is the best **distance** to use?
 
