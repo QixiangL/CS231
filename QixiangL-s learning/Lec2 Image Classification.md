@@ -119,12 +119,10 @@ class NearestNeighbor:
    - Distance metric and K are **hyperparameters**
    - Choose hyperparameters using the **validation set**; only run on the test set once at the very end!
 
-
-
-# 2. Cjw
-## 2.1 Whjjkt
-   * Plj
-	   - obghing, ...
+# 2. Linear Classification
+## 2.1 Parametric Approach
+   * Just a simplest linear dot-product to argmax the score at the output layer
+   ![linear classifier](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/linear_classifier.png)
 ## 2.2 Conj
    * Cggh
 	   - YehjC
