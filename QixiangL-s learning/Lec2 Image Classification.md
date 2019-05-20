@@ -91,8 +91,10 @@ class NearestNeighbor:
 ## 1.2 K-Nearest Neighbors
 * L1 & L2 Distance Metric
 ![distance metric](https://github.com/QixiangL/CS231/blob/master/QixiangL-s%20learning/lec2_images/L1_L2.png)
-   - L1 (Manhattan) is dependent on the coordinate while L2 (Euclidean) is non-dependent on coordinate.
-* Setting Hyperparameters
+   - L1 (Manhattan) is dependent on the coordinate
+   - L2 (Euclidean) is non-dependent on coordinate.
+* Setting Hyperparameters <br />
+	Choices about the algorithm that we set rather than learn.
    - what is the best value of **k** to use?
    - what is the best **distance** to use?
 
