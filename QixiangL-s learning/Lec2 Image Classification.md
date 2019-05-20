@@ -126,3 +126,7 @@ class NearestNeighbor:
 ## 2.2 Hard cases for a linear classifier
    * Parity problem or XOR problem
    * Multimodal data
+## 2.3 Coming up:
+   * Loss function
+   * Optimization
+   * ConvNets
